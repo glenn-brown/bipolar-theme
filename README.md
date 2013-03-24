@@ -5,6 +5,8 @@ The repository provides bipolar-theme.el, an unusual Emacs color theme
 with bright text and black comments on a gray background.  This unique
 approach makes it easy to mentally focus on just-code or just-comments.
 
+![Highlighting Example](eg.png)
+
 To install, clone this repository inside your ~/.emacs.d directory, and add
 the following to your ~/.emacs file:
 
