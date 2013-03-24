@@ -4,6 +4,6 @@
 
 int main(int argc, char *argv[]) {
   int ok = 0;
-  fprintf (stderr, "This is a test.\n");
+  fprintf (stderr, "This is a string, partly selected\n");
   return ok;
 }
